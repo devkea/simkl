@@ -45,6 +45,5 @@ return Socialite::driver('simkl')->redirect();
 
 - ``id``
 - ``name``
-- ``email``
 - ``avatar``
 - ``gender``
